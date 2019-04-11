@@ -1,5 +1,5 @@
 # expert_system
-An [backward-chaining](https://en.wikipedia.org/wiki/Backward_chaining) [expert system](https://en.wikipedia.org/wiki/Expert_system) in Python. (42 Silicon Valley)
+A [backward-chaining](https://en.wikipedia.org/wiki/Backward_chaining) [expert system](https://en.wikipedia.org/wiki/Expert_system) in Python. (42 Silicon Valley)
 
 <p float="left">
   <img src="https://github.com/ashih42/expert_system/blob/master/Screenshots/and_or.png" width="500" />
