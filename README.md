@@ -32,7 +32,7 @@ pip3 install lark-parser
 python3 main.py
 ```
 
-### File-processing Mode
+### File-Processing Mode
 ```
 python3 main.py -f file
 ```
