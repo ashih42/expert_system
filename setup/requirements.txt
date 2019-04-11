@@ -1,4 +1,4 @@
 doge
 colorama
 graphviz
-lark
+lark-parser
