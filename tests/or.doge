@@ -1,0 +1,32 @@
+@verbose off
+
+B + C => A 
+D | E => B 
+B => C 
+
+@vis
+
+# =
+=
+?A 
+
+@vis
+
+# =D
+=D
+?A 
+
+@vis
+
+# =E
+=E
+?A 
+
+@vis
+
+# =DE
+=DE
+?A 
+
+@vis
+

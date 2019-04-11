@@ -1,0 +1,73 @@
+@verbose off
+
+A | B + C => E 
+(F | G) + H => E 
+
+@vis
+
+# =
+=
+?E 
+
+@vis
+
+# =A
+=A
+?E 
+
+@vis
+
+# =B
+=B
+?E 
+
+@vis
+
+# =C
+=C
+?E 
+
+@vis
+
+# =AC
+=AC
+?E 
+
+@vis
+
+# =BC
+=BC
+?E 
+
+@vis
+
+# =F
+=F
+?E 
+
+@vis
+
+# =G
+=G
+?E 
+
+@vis
+
+# =H
+=H
+?E 
+
+@vis
+
+# =FH
+=FH
+?E 
+
+@vis
+
+# =GH
+=GH
+?E 
+
+@vis
+
